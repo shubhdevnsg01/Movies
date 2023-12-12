@@ -1,0 +1,4 @@
+github.com/go-chi/chi/v5 v5.0.10 h1:rLz5avzKpjqxrYwXNfmjkrYYXOyLJd37pz53UFHC6vk=
+github.com/go-chi/chi/v5 v5.0.10/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
+gofr.dev v1.0.2 h1:gHIJbjDvRqHyYDWvp9LXgVImAamksR3E3zdGkzYmHhg=
+gofr.dev v1.0.2/go.mod h1:bRoGhiv7+3q0QJtWLPNepr5VXCXHS9EDa0W3BjW7OBo=
